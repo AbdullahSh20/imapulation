@@ -2,3 +2,6 @@ dataset1/
 dataset2/
 dataset3/
 *.zip
+**/__pycache__/
+remove_background_model_old.h5
+remove_background_weights_old.h5
